@@ -1,0 +1,19 @@
+name: dropdown_button3
+description: Flutter's core Dropdown Button widget with steady dropdown menu and many options you can customize to your needs.
+version: 3.0.0
+repository: https://github.com/gowthamsc/dropdownbutton3
+issue_tracker: https://github.com/gowthamsc/dropdownbutton3/issues
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
